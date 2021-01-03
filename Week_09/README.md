@@ -54,18 +54,18 @@
 
 感触：
 
-	（1）. 人肉递归低效、很累
+	1. 人肉递归低效、很累
 
-	（2）. 找到最近最简方法，将其拆解成可重复解决的问题
+	2. 找到最近最简方法，将其拆解成可重复解决的问题
 
-	（3）. 数学归纳法思维
+	3. 数学归纳法思维
 
 	本质：寻找重复性 —> 计算机指令集
 
 
 3. 动态规划（Dynamic Programming）
 
-	1.“Simplifying a complicated problem by breaking it down into simpler sub-problems” (in a recursive manner)
+	1. “Simplifying a complicated problem by breaking it down into simpler sub-problems” (in a recursive manner)
 
 	2. Divide & Conquer + Optimal substructure 
 	
@@ -110,9 +110,9 @@
 
 	复杂度来源:
 	
-	(1). 状态拥有更多维度（二维、三维、或者更多、甚至需要压缩）
+	1. 状态拥有更多维度（二维、三维、或者更多、甚至需要压缩）
 
-	(2). 状态方程更加复杂
+	2. 状态方程更加复杂
    
    
 #### 字符串基础知识
@@ -138,5 +138,5 @@
 	
 	2. Rabin-Karp算法
 	
-	3.KMP算法
+	3. KMP算法
 		
